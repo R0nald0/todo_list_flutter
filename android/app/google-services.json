@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "838932492866",
+    "project_id": "todolistprovider-91040",
+    "storage_bucket": "todolistprovider-91040.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838932492866:android:2ec6f5a7eabded22c4f3db",
+        "android_client_info": {
+          "package_name": "br.com.superpc.com.todo_list_provider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "838932492866-6cffqti48bv79jgfkfrg15ipkhbdisf9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.superpc.com.todo_list_provider",
+            "certificate_hash": "ffc56def8d9ab7b7ecd979a5ffecbe0cd6656af8"
+          }
+        },
+        {
+          "client_id": "838932492866-ir2ign8kk5lqqbg5315gq642te7rvmgn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_T1wQvsVpUehgNaGpzdEcOxJMyK8CaNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "838932492866-ir2ign8kk5lqqbg5315gq642te7rvmgn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "838932492866-mkkug1ojesjrc708c5iuijdb7n9isgjt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "br.com.superpc.com.todoListProvider"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
